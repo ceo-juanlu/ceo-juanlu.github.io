@@ -1,6 +1,6 @@
 # Secret Santa
 
-Check it live on ceo-juanlu.github.io
+Check it live on [ceo-juanlu.github.io](https://ceo-juanlu.github.io)
 
 ## License (MIT)
 
